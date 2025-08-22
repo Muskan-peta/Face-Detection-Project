@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files and outputs
+data/
+results/
+
+# Large models
+models/
+
+# Jupyter notebooks
+.ipynb_checkpoints/

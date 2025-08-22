@@ -1,0 +1,8 @@
+opencv-python
+numpy
+matplotlib
+imutils
+opencv-python-headless
+scikit-learn
+pandas
+jupyter
